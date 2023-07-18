@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&amp;logo=Tailwind CSS&amp;logoColor=white">
 	<br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
