@@ -42,4 +42,3 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seung-u&layout=compact">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=seung-u&show_icons=true">
