@@ -10,7 +10,7 @@
 <h3>DEV STACK</h3>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=C%2B%2B&amp;logoColor=white">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white">
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
 </div>
 <br>
 <div align=center>
